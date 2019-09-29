@@ -1,0 +1,22 @@
+
+111.201.147.235 | 2019-09-28 11:38:43
+SQL: SELECT * FROM `hszt_case` where `id` in (select id from (select id from `hszt_case`  order by id desc limit 0,10)as t) order by  id desc
+Error: Table 'hszt.hszt_case' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+690________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Case.php
+25_________getListByPage________/home/www/kod/yafcms/application/modules/Admin/controllers/Case.php
+___________tabPageAction________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.147.235 | 2019-09-28 11:38:43
+SQL: SELECT count(*) as `total` FROM `hszt_case` 
+Error: Table 'hszt.hszt_case' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+708________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Case.php
+25_________getListByPage________/home/www/kod/yafcms/application/modules/Admin/controllers/Case.php
+___________tabPageAction________
+19_________run__________________/home/www/kod/yafcms/public/index.php

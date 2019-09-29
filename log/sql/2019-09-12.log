@@ -1,0 +1,87 @@
+
+111.201.148.231 | 2019-09-12 14:37:33
+SQL: SELECT * FROM `hszt_caselist` where `id` in (select id from (select id from `hszt_caselist` where  id desc order by 1 limit 308,28)as t) order by  1
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc order by 1 limit 308,28)as t) order by  1' at line 1
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+690________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Caselist.php
+20_________getListByPage________/home/www/kod/yafcms/application/controllers/Caselist.php
+___________indexAction__________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.231 | 2019-09-12 14:37:33
+SQL: SELECT count(*) as `total` FROM `hszt_caselist` where  id desc
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc' at line 1
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+708________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Caselist.php
+20_________getListByPage________/home/www/kod/yafcms/application/controllers/Caselist.php
+___________indexAction__________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.231 | 2019-09-12 14:38:20
+SQL: SELECT * FROM `hszt_caselist` where `id` in (select id from (select id from `hszt_caselist`  order by id desc limit 0,12)as t) cid = 28 order by  id desc
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cid = 28 order by  id desc' at line 1
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+690________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Caselist.php
+20_________getListByPage________/home/www/kod/yafcms/application/controllers/Caselist.php
+___________indexAction__________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.231 | 2019-09-12 23:12:57
+SQL: SELECT * FROM `hszt_newgroy` where `id` in (select id from (select id from `hszt_newgroy`  order by id desc limit 0,10)as t) order by  id desc
+Error: Table 'hszt.hszt_newgroy' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+690________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Newgroy.php
+25_________getListByPage________/home/www/kod/yafcms/application/modules/Admin/controllers/Newgroy.php
+___________tabPageAction________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.231 | 2019-09-12 23:12:57
+SQL: SELECT count(*) as `total` FROM `hszt_newgroy` 
+Error: Table 'hszt.hszt_newgroy' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+708________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Newgroy.php
+25_________getListByPage________/home/www/kod/yafcms/application/modules/Admin/controllers/Newgroy.php
+___________tabPageAction________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.231 | 2019-09-12 23:13:12
+SQL: INSERT INTO hszt_newgroy (`title`,`c_time`,`info`) VALUES ('公司新闻','2019-09-12 23:13:12','公司新闻')
+Error: Table 'hszt.hszt_newgroy' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+393________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+106________Insert_______________/home/www/kod/yafcms/application/modules/Admin/controllers/Newgroy.php
+___________addinsertAction______
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.231 | 2019-09-12 23:14:11
+SQL: SELECT * FROM `hszt_newgroy` where `id` in (select id from (select id from `hszt_newgroy`  order by id desc limit 0,10)as t) order by  id desc
+Error: Table 'hszt.hszt_newgroy' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+690________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Newgroy.php
+25_________getListByPage________/home/www/kod/yafcms/application/modules/Admin/controllers/Newgroy.php
+___________tabPageAction________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.231 | 2019-09-12 23:14:11
+SQL: SELECT count(*) as `total` FROM `hszt_newgroy` 
+Error: Table 'hszt.hszt_newgroy' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+708________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Newgroy.php
+25_________getListByPage________/home/www/kod/yafcms/application/modules/Admin/controllers/Newgroy.php
+___________tabPageAction________
+19_________run__________________/home/www/kod/yafcms/public/index.php

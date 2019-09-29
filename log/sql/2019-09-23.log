@@ -1,0 +1,132 @@
+
+111.201.148.47 | 2019-09-23 19:55:10
+SQL: SELECT * FROM `hszt_newlist` where `id` in (select id from (select id from `hszt_newlist` where   cid = Array order by id desc limit 0,6)as t) order by  id desc
+Error: Unknown column 'Array' in 'where clause'
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+690________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Newlist.php
+26_________getListByPage________/home/www/kod/yafcms/application/controllers/News.php
+___________indexAction__________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.47 | 2019-09-23 19:55:10
+SQL: SELECT count(*) as `total` FROM `hszt_newlist` where   cid = Array
+Error: Unknown column 'Array' in 'where clause'
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+708________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Newlist.php
+26_________getListByPage________/home/www/kod/yafcms/application/controllers/News.php
+___________indexAction__________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.47 | 2019-09-23 19:55:29
+SQL: SELECT * FROM `hszt_newlist` where `id` in (select id from (select id from `hszt_newlist` where   cid = Array order by id desc limit 0,6)as t) order by  id desc
+Error: Unknown column 'Array' in 'where clause'
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+690________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Newlist.php
+26_________getListByPage________/home/www/kod/yafcms/application/controllers/News.php
+___________indexAction__________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.47 | 2019-09-23 19:55:29
+SQL: SELECT count(*) as `total` FROM `hszt_newlist` where   cid = Array
+Error: Unknown column 'Array' in 'where clause'
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+708________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Newlist.php
+26_________getListByPage________/home/www/kod/yafcms/application/controllers/News.php
+___________indexAction__________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.47 | 2019-09-23 19:55:30
+SQL: SELECT * FROM `hszt_newlist` where `id` in (select id from (select id from `hszt_newlist` where   cid = Array order by id desc limit 0,6)as t) order by  id desc
+Error: Unknown column 'Array' in 'where clause'
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+690________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Newlist.php
+26_________getListByPage________/home/www/kod/yafcms/application/controllers/News.php
+___________indexAction__________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.47 | 2019-09-23 19:55:30
+SQL: SELECT count(*) as `total` FROM `hszt_newlist` where   cid = Array
+Error: Unknown column 'Array' in 'where clause'
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+708________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Newlist.php
+26_________getListByPage________/home/www/kod/yafcms/application/controllers/News.php
+___________indexAction__________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.47 | 2019-09-23 19:55:58
+SQL: SELECT * FROM `hszt_newlist` where `id` in (select id from (select id from `hszt_newlist` where   cid = Array order by id desc limit 0,6)as t) order by  id desc
+Error: Unknown column 'Array' in 'where clause'
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+690________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Newlist.php
+26_________getListByPage________/home/www/kod/yafcms/application/controllers/News.php
+___________indexAction__________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.47 | 2019-09-23 19:55:58
+SQL: SELECT count(*) as `total` FROM `hszt_newlist` where   cid = Array
+Error: Unknown column 'Array' in 'where clause'
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+708________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Newlist.php
+26_________getListByPage________/home/www/kod/yafcms/application/controllers/News.php
+___________indexAction__________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.47 | 2019-09-23 19:56:02
+SQL: SELECT * FROM `hszt_newlist` where `id` in (select id from (select id from `hszt_newlist` where   cid = Array order by id desc limit 0,6)as t) order by  id desc
+Error: Unknown column 'Array' in 'where clause'
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+690________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Newlist.php
+26_________getListByPage________/home/www/kod/yafcms/application/controllers/News.php
+___________indexAction__________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.47 | 2019-09-23 19:56:02
+SQL: SELECT count(*) as `total` FROM `hszt_newlist` where   cid = Array
+Error: Unknown column 'Array' in 'where clause'
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+708________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Newlist.php
+26_________getListByPage________/home/www/kod/yafcms/application/controllers/News.php
+___________indexAction__________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.47 | 2019-09-23 19:56:04
+SQL: SELECT * FROM `hszt_newlist` where `id` in (select id from (select id from `hszt_newlist` where   cid = Array order by id desc limit 0,6)as t) order by  id desc
+Error: Unknown column 'Array' in 'where clause'
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+690________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Newlist.php
+26_________getListByPage________/home/www/kod/yafcms/application/controllers/News.php
+___________indexAction__________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.47 | 2019-09-23 19:56:04
+SQL: SELECT count(*) as `total` FROM `hszt_newlist` where   cid = Array
+Error: Unknown column 'Array' in 'where clause'
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+708________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Newlist.php
+26_________getListByPage________/home/www/kod/yafcms/application/controllers/News.php
+___________indexAction__________
+19_________run__________________/home/www/kod/yafcms/public/index.php

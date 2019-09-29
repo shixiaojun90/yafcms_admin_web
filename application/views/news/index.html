@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<!-- saved from url=(0036)http://www.huashizt.com/information -->
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <!--[if lte IE 8]><script type="text/javascript">
+       window.location.href = '/fj/web/Tpl/Index/browser/browser_error.html';
+	 </script><![endif]--> 
+        <title>北京华视中天科技有限公司</title> 
+        <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport" /> 
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> 
+        <meta name="description" content="多媒体展厅,数字化展览展示,全息投影,AR增强现实,VR虚拟现实,体感游戏,智能识别,融合技术,立体投影,传感技术" /> 
+        <meta name="keywords" content="凡景新象九年服务于多媒体展厅，数字化展览展示，掌握多项互动技术：交互触摸屏，全息投影，AR增强现实，体感游戏，智能识别，融合技术，精准对位投影，传感技术等。" /> 
+        <link rel="stylesheet" href="<?php echo HOME_CSS_PATH ?>/bootstrap.min.css" />
+        <link rel="stylesheet" href="<?php echo HOME_CSS_PATH ?>/style.css" /> 
+        <script src="<?php echo HOME_JS_PATH ?>/jquery-1.10.2.min.js"></script>
+        <script src="<?php echo HOME_JS_PATH ?>/superslide.2.1.js"></script> 
+        <script src="<?php echo HOME_JS_PATH ?>/caidan.js"></script>
+        <!--[if lt IE 9]><script src="js/html5shiv.min.js"></script>
+        	 <script src="http://apps.bdimg.com/libs/html5shiv/3.7/html5shiv.min.js"></script>
+        	 <script src="http://apps.bdimg.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        	 <![endif]--> 
+        <style>
+        	.xianyin2 p img {
+            	padding:0;
+            	margin:0;
+            	margin:0 auto;
+            	width:100%;
+            	height:100%;
+            	text-align:center;
+    	    }
+        </style> 
+    </head> 
+    <body style="">
+        <?php include APP_PATH.'/public/home/header.html' ?>
+        <div class="er_con news_con">
+        <!--<div class="container"><div class="er_tit"><div class="tit_nei"><div class="pull-left touzi"><span>N</span></div><div><p class="ying">news</p><p id="cen">新闻动态</p></div></div></div></div>-->
+            <div class="newsnei container">
+                <div class="row mianbaonav">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 text-right">
+                        <a href="/">首页</a> &gt; 
+                        <a href="/news">新闻动态</a> &gt; 公司新闻
+                    </div>
+                </div>
+                <div class="tit">
+                    <?php if(!empty($data['newgrouy'])){ ?>
+                    <?php foreach($data['newgrouy'] as $keyc => $valc){ ?>
+                    <span <?php if($data['cur']=='0'){ ?> class="cur" <?php } else if($data['cur']==$valc['id']){ ?> class="cur" <?php } ?> onclick="datalist(this)" id="<?php echo $valc['id']; ?>" style="cursor:pointer;font-weight:500;"><?php echo $valc['title']; ?></span>
+                    <?php } ?>
+                    <?php } ?>
+                </div>
+                <div class="neirong">
+                    <div class="gongwen">
+                        <?php foreach($data['newslist']['data'] as $listk => $listv){ ?>
+                        <div class="newslist">
+                            <div class="tu visible-lg visible-md">
+                                <a href="/news/<?php echo $listv['id']; ?>">
+                                    <img src="<?php echo $listv['img']; ?>" class="img-responsive" />
+                                </a>
+                            </div>
+                            <dl class="wen">
+                                <dt>
+                                    <a href="/detailed-<?php echo $listv['id']; ?>.html"><?php echo $listv['title']; ?></a>
+                                </dt>
+                                <dd class="time hidden-lg"><?php echo $listv['c_time']; ?></dd>
+                                <dd class="jieshao">
+                                    <?php echo $listv['desc']; ?>
+                                </dd>
+                            </dl>
+                            <div class="more hidden-xs hidden-sm">
+                                <a href="/detailed-<?php echo $listv['id']; ?>.html">详细</a>
+                            </div>
+                        </div>
+                        <?php } ?>
+                    </div>
+                </div>
+            </div>
+        </div>
+ 
+  
+  <script>
+    function datalist(fag){
+        window.location.href= "/news-"+fag.id+".html";
+    }
+  </script>
+ </body>
+</html>

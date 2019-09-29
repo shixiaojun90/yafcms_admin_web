@@ -1,0 +1,43 @@
+<div class="left-nav">
+      <div id="side-nav">
+        <ul id="nav">
+        <?php $menu=$_SESSION['menuini'];?>
+        <?php foreach($menu as &$val){ ?>
+            <?php $child=0;?>
+            <?php $p_active=0;?>
+            <?php if($val['child']) {?>
+                <?php foreach($val['child'] as &$v) {?>
+                    <?php preg_match('/\/([a-z]+)\?/',$v['url'],$rs); ?>
+                    <?php if(strtoupper($rs[1])==strtoupper(Yaf_Dispatcher::getInstance()->getRequest()->controller)){?>
+                        <?php  $child=1;?>
+                    <?php } ?>
+                <?php } ?>
+            <?php }else{ ?>
+                <?php preg_match('/\/([a-z]+)\?/',$val['parent']['url'],$rsp); ?>
+                <?php if(strtoupper($rsp[1])==strtoupper(Yaf_Dispatcher::getInstance()->getRequest()->controller)){?>
+                    <?php  $p_active=1;?>
+                <?php } ?>
+            <?php }?>
+                <li>
+                    <a href="javascript:;">
+                        <i class="iconfont"><?php echo $val['parent']['icon'] ?></i>
+                        <cite><?php echo $val['parent']['name'] ?></cite>
+                        <i class="iconfont nav_right">&#xe697;</i>
+                    </a>
+                    <?php if($val['child']) {?>
+                    <ul class="sub-menu">
+                        <?php foreach($val['child'] as &$value) {?>
+                            <li>
+                                <a _href="<?php echo $value['url'] ?>">
+                                    <i class="iconfont">&#xe6a7;</i>
+                                    <cite><?php echo $value['name']?></cite>
+                                </a>
+                            </li >
+                        <?php }?>
+                    </ul>
+                    <?php }?>
+                </li>
+        <?php } ?>
+        </ul>
+      </div>
+    </div>

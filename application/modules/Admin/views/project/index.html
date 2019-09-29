@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <meta charset="UTF-8">
+    <title>欢迎页面</title>
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width,user-scalable=yes, minimum-scale=0.4, initial-scale=0.8,target-densitydpi=low-dpi" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="<?php echo STATIC_PATH ?>/css/font.css">
+    <link rel="stylesheet" href="<?php echo STATIC_PATH ?>/css/xadmin.css">
+    <script type="text/javascript" src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript" src="<?php echo STATIC_PATH ?>/lib/layui/layui.js" charset="utf-8"></script>
+    <script type="text/javascript" src="<?php echo STATIC_PATH ?>/js/xadmin.js"></script>
+    <!-- 让IE8/9支持媒体查询，从而兼容栅格 -->
+    <!--[if lt IE 9]>
+      <script src="https://cdn.staticfile.org/html5shiv/r29/html5.min.js"></script>
+      <script src="https://cdn.staticfile.org/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  
+  <body>
+    <div class="x-nav">
+      <a class="layui-btn layui-btn-small" style="line-height:1.6em;margin-top:3px;float:right" href="javascript:location.replace(location.href);" title="刷新">
+        <i class="layui-icon" style="line-height:30px">ဂ</i></a>
+    </div>
+    <div class="x-body">
+        <xblock id="delall">
+            <button class="layui-btn layui-btn-danger" data-type="getCheckData"><i class="layui-icon"></i>批量删除</button>
+            <button class="layui-btn" id="addinsert"><i class="layui-icon"></i>添加</button>
+        </xblock>
+        
+        <table class="layui-hide" id="demo" lay-filter="topicdata"></table>
+        <script type="text/html" id="barDemo">
+            <a class="layui-btn layui-btn-xs" title="修改" lay-event="edit">
+                <i class="layui-icon">&#xe63c;</i>
+            </a>
+            <a class="layui-btn layui-btn-xs" title="删除" lay-event="del">
+                <i class="layui-icon">&#xe640;</i>
+            </a>
+        </script>
+    </div>
+    
+    <!-- 注意：如果你直接复制所有代码到本地，上述js路径需要改成你本地的 -->
+    <script>
+        //方法渲染
+        
+        layui.use(['table','jquery'], function(){
+            var table = layui.table,
+            $ = layui.jquery;
+            table.render({
+                elem: '#demo'
+                ,url: '/admin/categrouy/tabPage/'
+                ,title: '用户表'
+                ,page: true //开启分页
+                ,toolbar: 'default' //开启工具栏，此处显示默认图标，可以自定义模板，详见文档
+                ,totalRow: true //开启合计行
+                ,toolbar: 'default'
+                ,cols: [[ //表头
+                  {type: 'checkbox', fixed: 'left'}
+                  ,{field: 'id', title: 'ID', width:80}
+                  ,{field: 'title', title: '分类名称', width:230}
+                  ,{field: 'category', title: '图片', width:320,
+                        templet:function(d){
+                            return '<div><img class="layui-upload-img" style="width:50px;height:30px;" src="'+d.img+'"></div>';
+                        }  
+                  }
+                  ,{field: 'c_time', title: '时间', width:200}
+                  ,{fixed: 'right', title: '操作',  width: 100, align:'center', toolbar: '#barDemo'}
+                ]]
+                ,page: true
+                ,event: true
+            });
+            
+            table.on('tool(topicdata)', function(obj){
+                var data = obj.data;
+                
+                if (obj.event === 'del') {
+                    layer.confirm('确认删除么', function(index) {
+                        $.ajax({
+                            url : '/admin/categrouy/delete',
+                            type : 'post',
+                            dataType : 'json',
+                            //contentType :"application/json",
+                            data : {"id":data.id},
+                            success : function (result) {
+                                if(result.code==1){
+                                    obj.del();
+                                    layer.close(index);
+                                    layer.msg('已删除!',{icon:1,time:1000});
+                                }else if(result.code=='10000'){
+                					layer.msg('没有权限,请联系管理员!');
+                				}else{
+                					layer.msg('操作失败');
+                				}
+                            }
+                        })
+                    });
+                }else if (obj.event === 'edit') {
+                    $.ajax({
+                        url : '/admin/categrouy/getById',
+                        type : 'post',
+                        dataType : 'json',
+                        //contentType :"application/json",
+                        data : {"id":data.id},
+                        success : function (result) {
+                            if(result.code==0){
+                                layer.open({
+                        			type: 2,
+                        			area: ['800px', '400px'],
+                        			fix: false, //不固定
+                        			maxmin: true,
+                        			shadeClose: true,
+                        			shade: 0.4,
+                        			title: "编辑",
+                        			content: "/admin/categrouy/edit?id="+data.id
+                        		});
+                            }else if(result.code=='10000'){
+            					layer.msg('没有权限,请联系管理员!');
+            				}else{
+            				    layer.msg('未知错误');
+            				}
+                        }
+                    })
+                }
+            });
+            
+            
+            $(document).on('click','#addinsert',function(){
+                $.ajax({
+                    url : '/admin/categrouy/add',
+                    type : 'post',
+                    dataType : 'json',
+                    //contentType :"application/json",
+                    data : {},
+                    success : function (result) {
+                        if(result.code==0){
+                            layer.open({
+                    			type: 2,
+                    			area: ['800px', '400px'],
+                    			fix: false, //不固定
+                    			maxmin: true,
+                    			shadeClose: true,
+                    			shade: 0.4,
+                    			title: "添加",
+                    			content: "/admin/categrouy/addhtml"
+                    		});
+                        }else if(result.code=='10000'){
+        					layer.msg('没有权限,请联系管理员!');
+        				}else{
+        				    layer.msg('未知错误');
+        				}
+                    }
+                })
+            });
+            
+            var active = {
+                getCheckData: function() { //获取选中数据
+        			var checkStatus = table.checkStatus('demo'),
+        				data = checkStatus.data;
+        			
+        			if(data.length > 0) {
+        				layer.confirm('确认要删除吗？', function(index) {
+        				    var listid="";
+        				    for(i=0; i<data.length; i++){
+        				        listid += data[i].id+',';
+        				    }
+        				    
+        				    $.ajax({
+                                url : '/admin/categrouy/delete',
+                                type : 'post',
+                                dataType : 'json',
+                                //contentType :"application/json",
+                                data : {'id': listid.substring(0,listid.length - 1)},
+                                success : function (result) {
+                                    if(result.code==1){
+                                        layer.close(index);
+                                        layer.msg('删除成功');
+                                        setTimeout(function(){
+                                            location.reload();
+                                        },1000);
+                                        
+                                    }else if(result.code=='10000') {
+                    					layer.msg('没有权限,请联系管理员!');
+                                    }else {
+                                        layer.msg('操作失败!');
+                                    }
+                                }
+                            });
+                            //$(".layui-table-body .layui-form-checked").parents('tr').remove();
+        				});
+        			} else {
+        				layer.msg("请先选择需要删除的文章！");
+        			}
+        		}
+            }
+            
+            $('#delall .layui-btn').on('click', function() {
+        		var type = $(this).data('type');
+        		active[type] ? active[type].call(this) : '';
+        	});
+        });
+        
+        
+    </script>
+
+  </body>
+
+</html>

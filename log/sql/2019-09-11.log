@@ -1,0 +1,162 @@
+
+111.201.148.52 | 2019-09-11 19:40:03
+SQL: SELECT * FROM `hszt_caselist` where `id` in (select id from (select id from `hszt_caselist`  order by id desc limit 0,10)as t) order by  id desc
+Error: Table 'hszt.hszt_caselist' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+690________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Caselist.php
+25_________getListByPage________/home/www/kod/yafcms/application/modules/Admin/controllers/Caselist.php
+___________tabPageAction________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.52 | 2019-09-11 19:40:03
+SQL: SELECT count(*) as `total` FROM `hszt_caselist` 
+Error: Table 'hszt.hszt_caselist' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+708________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Caselist.php
+25_________getListByPage________/home/www/kod/yafcms/application/modules/Admin/controllers/Caselist.php
+___________tabPageAction________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.52 | 2019-09-11 19:48:24
+SQL: SELECT * FROM `hszt_caselist` where `id` in (select id from (select id from `hszt_caselist`  order by id desc limit 0,10)as t) order by  id desc
+Error: Table 'hszt.hszt_caselist' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+690________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Caselist.php
+26_________getListByPage________/home/www/kod/yafcms/application/modules/Admin/controllers/Caselist.php
+___________tabPageAction________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.52 | 2019-09-11 19:48:24
+SQL: SELECT count(*) as `total` FROM `hszt_caselist` 
+Error: Table 'hszt.hszt_caselist' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+708________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Caselist.php
+26_________getListByPage________/home/www/kod/yafcms/application/modules/Admin/controllers/Caselist.php
+___________tabPageAction________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.52 | 2019-09-11 19:50:42
+SQL: SELECT * FROM `hszt_caselist` where `id` in (select id from (select id from `hszt_caselist`  order by id desc limit 0,10)as t) order by  id desc
+Error: Table 'hszt.hszt_caselist' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+690________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Caselist.php
+26_________getListByPage________/home/www/kod/yafcms/application/modules/Admin/controllers/Caselist.php
+___________tabPageAction________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.52 | 2019-09-11 19:50:42
+SQL: SELECT count(*) as `total` FROM `hszt_caselist` 
+Error: Table 'hszt.hszt_caselist' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+708________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Caselist.php
+26_________getListByPage________/home/www/kod/yafcms/application/modules/Admin/controllers/Caselist.php
+___________tabPageAction________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.52 | 2019-09-11 19:51:03
+SQL: SELECT * FROM `hszt_caselist` where `id` in (select id from (select id from `hszt_caselist`  order by id desc limit 0,10)as t) order by  id desc
+Error: Table 'hszt.hszt_caselist' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+690________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Caselist.php
+26_________getListByPage________/home/www/kod/yafcms/application/modules/Admin/controllers/Caselist.php
+___________tabPageAction________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.52 | 2019-09-11 19:51:03
+SQL: SELECT count(*) as `total` FROM `hszt_caselist` 
+Error: Table 'hszt.hszt_caselist' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+708________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Caselist.php
+26_________getListByPage________/home/www/kod/yafcms/application/modules/Admin/controllers/Caselist.php
+___________tabPageAction________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.52 | 2019-09-11 19:55:55
+SQL: SELECT * FROM `hszt_caselist` where `id` in (select id from (select id from `hszt_caselist`  order by id desc limit 0,10)as t) order by  id desc
+Error: Table 'hszt.hszt_caselist' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+690________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Caselist.php
+26_________getListByPage________/home/www/kod/yafcms/application/modules/Admin/controllers/Caselist.php
+___________tabPageAction________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.52 | 2019-09-11 19:55:55
+SQL: SELECT count(*) as `total` FROM `hszt_caselist` 
+Error: Table 'hszt.hszt_caselist' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+708________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Caselist.php
+26_________getListByPage________/home/www/kod/yafcms/application/modules/Admin/controllers/Caselist.php
+___________tabPageAction________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.52 | 2019-09-11 19:56:23
+SQL: INSERT INTO hszt_caselist (`cid`,`title`,`img`,`c_time`,`info`) VALUES ('28','衡水湖湿地生态科普馆展厅','http://www.huashizt.com:8080/upload/caselist/1550638734213258 (1)-jpg.jpg','2019-09-11 19:56:23','<p class=\"biao\">项目介绍</p><p></p><p><span><span>衡水湖湿地生态科普馆展厅总面积</span>2219<span>平方米，包括序厅、全球湿地、衡水湖湿地、物种基因库、湿地保护、衡水湖场景体验、尾厅七大板块。全球湿地板块设置了内投球互动展项，通过触摸查询，游客可以直接快速的了解世界及中国湿地的分布情况及知识。仿真造景和半景画利用灯光控制系统和音响效果，使游客沉浸在衡水湖四季变化的氛围。</span></span></p><p><span><span><img src=\"http://www.huashizt.com:8080/upload/caselist/3add2db88d94c608464e4f788f34ddd8.jpg\" alt=\"http://www.huashizt.com:8080/upload/caselist/3add2db88d94c608464e4f788f34ddd8.jpg\"><br></span></span></p>')
+Error: Table 'hszt.hszt_caselist' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+393________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+111________Insert_______________/home/www/kod/yafcms/application/modules/Admin/controllers/Caselist.php
+___________addinsertAction______
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.52 | 2019-09-11 19:57:46
+SQL: INSERT INTO hszt_caselist (`cid`,`title`,`img`,`c_time`,`info`) VALUES ('28','衡水湖湿地生态科普馆展厅','http://www.huashizt.com:8080/upload/caselist/1550638734213258 (1)-jpg.jpg','2019-09-11 19:57:46','<p class=\"biao\">项目介绍</p><p></p><p><span><span>衡水湖湿地生态科普馆展厅总面积</span>2219<span>平方米，包括序厅、全球湿地、衡水湖湿地、物种基因库、湿地保护、衡水湖场景体验、尾厅七大板块。全球湿地板块设置了内投球互动展项，通过触摸查询，游客可以直接快速的了解世界及中国湿地的分布情况及知识。仿真造景和半景画利用灯光控制系统和音响效果，使游客沉浸在衡水湖四季变化的氛围。</span></span></p><p><span><span><img src=\"http://www.huashizt.com:8080/upload/caselist/3add2db88d94c608464e4f788f34ddd8.jpg\" alt=\"http://www.huashizt.com:8080/upload/caselist/3add2db88d94c608464e4f788f34ddd8.jpg\"><br></span></span></p>')
+Error: Table 'hszt.hszt_caselist' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+393________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+111________Insert_______________/home/www/kod/yafcms/application/modules/Admin/controllers/Caselist.php
+___________addinsertAction______
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.52 | 2019-09-11 19:58:47
+SQL: SELECT * FROM `hszt_caselist` where `id` in (select id from (select id from `hszt_caselist`  order by id desc limit 0,10)as t) order by  id desc
+Error: Table 'hszt.hszt_caselist' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+690________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Caselist.php
+26_________getListByPage________/home/www/kod/yafcms/application/modules/Admin/controllers/Caselist.php
+___________tabPageAction________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.52 | 2019-09-11 19:58:47
+SQL: SELECT count(*) as `total` FROM `hszt_caselist` 
+Error: Table 'hszt.hszt_caselist' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+708________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Caselist.php
+26_________getListByPage________/home/www/kod/yafcms/application/modules/Admin/controllers/Caselist.php
+___________tabPageAction________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.148.52 | 2019-09-11 19:59:27
+SQL: INSERT INTO hszt_caselist (`cid`,`title`,`img`,`c_time`,`info`) VALUES ('28','衡水湖湿地生态科普馆展厅','http://www.huashizt.com:8080/upload/caselist/1550638734213258 (1)-jpg.jpg','2019-09-11 19:59:27','<p class=\"biao\">项目介绍</p><p></p><p><span><span>衡水湖湿地生态科普馆展厅总面积</span>2219<span>平方米，包括序厅、全球湿地、衡水湖湿地、物种基因库、湿地保护、衡水湖场景体验、尾厅七大板块。全球湿地板块设置了内投球互动展项，通过触摸查询，游客可以直接快速的了解世界及中国湿地的分布情况及知识。仿真造景和半景画利用灯光控制系统和音响效果，使游客沉浸在衡水湖四季变化的氛围。</span></span></p><p><img src=\"http://www.thefinders.cn/fj/ueditor/upload/image/20190220/1550638734213258.jpg\"></p><p><br></p>')
+Error: Table 'hszt.hszt_caselist' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+393________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+111________Insert_______________/home/www/kod/yafcms/application/modules/Admin/controllers/Caselist.php
+___________addinsertAction______
+19_________run__________________/home/www/kod/yafcms/public/index.php

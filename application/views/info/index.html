@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<!-- saved from url=(0036)http://www.huashizt.com/information -->
+<html>
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <!--[if lte IE 8]><script type="text/javascript">
+       window.location.href = '/fj/web/Tpl/Index/browser/browser_error.html';
+	 </script><![endif]--> 
+  <title>北京华视中天科技有限公司</title> 
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport" /> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> 
+  <meta name="description" content="多媒体展厅,数字化展览展示,全息投影,AR增强现实,VR虚拟现实,体感游戏,智能识别,融合技术,立体投影,传感技术" /> 
+  <meta name="keywords" content="凡景新象九年服务于多媒体展厅，数字化展览展示，掌握多项互动技术：交互触摸屏，全息投影，AR增强现实，体感游戏，智能识别，融合技术，精准对位投影，传感技术等。" /> 
+  <link rel="stylesheet" href="<?php echo HOME_CSS_PATH ?>/bootstrap.min.css" />
+  <link rel="stylesheet" href="<?php echo HOME_CSS_PATH ?>/style.css" /> 
+  <script src="<?php echo HOME_JS_PATH ?>/jquery-1.10.2.min.js"></script>
+  <script src="<?php echo HOME_JS_PATH ?>/superslide.2.1.js"></script> 
+  <script src="<?php echo HOME_JS_PATH ?>/caidan.js"></script>
+  <!--[if lt IE 9]><script src="js/html5shiv.min.js"></script>
+	 <script src="http://apps.bdimg.com/libs/html5shiv/3.7/html5shiv.min.js"></script>
+	 <script src="http://apps.bdimg.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	 <![endif]--> 
+  <style>
+	.xianyin2 p img {
+	padding:0;
+	margin:0;
+	margin:0 auto;
+	width:100%;
+	height:100%;
+	text-align:center;
+	}
+</style> 
+ </head> 
+ <body style=""> 
+  <!--#include file="header.asp"--> 
+  <?php include APP_PATH.'/public/home/header.html' ?>
+  
+  <div class="er_con">
+   <div class="container">
+    <div class="er_tit">
+     <div class="tit_nei">
+      <!--                <div class="pull-left touzi"><span>C</span></div>
+-->
+      <div class="pull-left you">
+       <!--   <p class="ying">company Profile</p> -->
+       <p>公司简介</p>
+      </div>
+     </div>
+    </div>
+    <div class="row jianjie">
+     <div class="tuwen container">
+      <div class="tu">
+       <img src="<?php echo $msg['img']; ?>" class="img-responsive" />
+      </div>
+      <div class="wen">
+          <?php echo $msg['info']; ?>
+      </div>
+     </div>
+    </div>
+    <div class="jianjieka">
+        <div class="tit">
+            <span class="cur">业务范围</span>
+            <span>技术构成</span>
+            <span>项目管理</span>
+            <span>认证资质</span>
+        </div>
+        <div class="jiankanei">
+            <div class="xianyin row">
+                <?php foreach($msg['categroy'] as $key => $val){ ?>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="biaoti">
+                        <img src="<?php echo $val['img']; ?>" alt="<?php echo $val['title']; ?>" />
+                    </div>
+                    <p style="text-align:center;font-size:13px;padding-top:5px;font-weight:bold">
+		                <a href="/caselist/<?php echo $val['id']; ?>"><?php echo $val['title']; ?></a>
+		            </p>
+                    <p class="wenjie" style="padding-top:0;text-indent:2em;letter-spacing:0px"><?php echo $val['info']; ?></p>
+                </div>
+                <?php } ?>
+            </div>
+            
+            <div class="xianyin xianyin2">
+                <?php if(!empty($msg['technology']['img']) && is_array(unserialize($msg['technology']['img']))){ ?>
+                <?php foreach(unserialize($msg['technology']['img']) as $key => $value0){ ?>
+                <dl class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                    <dt>
+                        <img src="<?php echo $value0; ?>" alt="<?php echo $value0; ?>" id="imgtitle" class="layui-upload-img">
+                    </dt>
+                </dl>
+                <?php } ?>
+                <?php } ?>
+            </div>
+            <div class="xianyin row xianyin2" style="overflow:hidden">
+                <?php if(!empty($msg['project']['img']) && is_array(unserialize($msg['project']['img']))){ ?>
+                <?php foreach(unserialize($msg['project']['img']) as $key => $value1){ ?>
+                <dl class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                    <dt>
+                        <img src="<?php echo $value1; ?>" alt="<?php echo $value1; ?>" id="imgtitle" class="layui-upload-img">
+                    </dt>
+                </dl>
+                <?php } ?>
+                <?php } ?>
+            </div>
+            <div class="xianyin row xianyin2 zizhi">
+                <?php if(!empty($msg['auth']['img']) && is_array(unserialize($msg['auth']['img']))){ ?>
+                <?php foreach(unserialize($msg['auth']['img']) as $key => $value2){ ?>
+                <dl class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                    <dt>
+                        <img src="<?php echo $value2; ?>" alt="<?php echo $value2; ?>" id="imgtitle" class="layui-upload-img">
+                    </dt>
+                </dl>
+                <?php } ?>
+                <?php } ?>
+            </div>
+        </div>
+    </div>
+   </div>
+  </div>
+  <!--#include file="footer.asp"-->
+ 
+ </body>
+</html>

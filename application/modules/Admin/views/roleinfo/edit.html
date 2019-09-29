@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <meta charset="UTF-8">
+    <title>欢迎页面</title>
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width,user-scalable=yes, minimum-scale=0.4, initial-scale=0.8,target-densitydpi=low-dpi" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="<?php echo STATIC_PATH ?>/css/font.css">
+    <link rel="stylesheet" href="<?php echo STATIC_PATH ?>/css/xadmin.css">
+    <script type="text/javascript" src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript" src="<?php echo STATIC_PATH ?>/lib/layui/layui.js" charset="utf-8"></script>
+    <script type="text/javascript" src="<?php echo STATIC_PATH ?>/js/xadmin.js"></script>
+    <!-- 让IE8/9支持媒体查询，从而兼容栅格 -->
+    <!--[if lt IE 9]>
+      <script src="https://cdn.staticfile.org/html5shiv/r29/html5.min.js"></script>
+      <script src="https://cdn.staticfile.org/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  
+  <body>
+    <div class="x-body">
+        <form class="layui-form layui-form-pane" id="formtopic">
+            <div class="layui-form-item">
+                <input type="hidden" name="id" value="<?php echo $roleinfo['id']; ?>">
+                <label for="L_title" class="layui-form-label">
+                    <span class="x-red">*</span>用户名
+                </label>
+                <div class="layui-input-inline">
+                    <input type="text" id="L_title" name="name"  required lay-verify="required" autocomplete="off" class="layui-input" value="<?php echo $roleinfo['name']; ?>">
+                </div>
+                <input type="checkbox" name="checkall" lay-filter="checkall" title="全选" lay-skin="primary">
+            </div>
+            
+            
+            <?php $actinc=$_SESSION['actinc']; ?>
+            <?php foreach($actinc as $ckey => $cvalue){ ?>
+            <div class="layui-form-item layui-form-text">
+                <label class="layui-form-label">
+                    <?php echo $cvalue['name']; ?>
+                </label>
+                
+                <table  class="layui-table layui-input-block">
+                    <tbody>
+                        <?php foreach($cvalue['globar'] as $gkey => $gvalue){ ?>
+                        <?php foreach($gvalue as $gk => $gv){ ?>
+                         
+                        <tr>
+                            <td>
+                                <input type="checkbox" lay-skin="primary" lay-filter="c_all" id="<?php echo $gkey; ?>" title="<?php echo $gk; ?>" value="<?php echo $gkey; ?>">
+                            </td>
+                            <td>
+                                <div class="layui-input-block">
+                                    <?php foreach($gv as $k => $v){ ?>
+                                    <input name="roleinfo[<?php echo $gkey;?>][]" id="action_<?php echo $gkey; ?>" class="action_<?php echo $gkey.'_'.$v; ?>"  lay-skin="primary" type="checkbox" title="<?php echo $k; ?>" value="<?php echo $v; ?>">
+                                    <?php } ?>
+                                </div>
+                            </td>
+                        </tr>
+                        <?php } ?>
+                        <?php } ?>
+                    </tbody>
+                </table>
+            </div>
+            <?php } ?>
+            <div class="layui-form-item">
+                <label for="L_repass" class="layui-form-label"></label>
+                <label for="L_repass" class="layui-form-label"></label>
+                <label for="L_repass" class="layui-form-label"></label>
+                <button  class="layui-btn" lay-filter="add" lay-submit="">提交</button>
+            </div>
+        </form>
+    </div>
+    <script>
+        layui.use(['form','layer','jquery','table'], function(){
+            $ = layui.jquery;
+              var form = layui.form
+              ,layer = layui.layer;
+            
+            var table = layui.table;    
+            //监听提交
+            form.on('submit(add)', function(data){
+                $.ajax({
+                    url : '/admin/roleinfo/updateById',
+                    type : 'post',
+                    dataType : 'json',
+                    //contentType :"application/json",
+                    data : $("#formtopic").serialize(),
+                    success : function (resouce) {
+                        if(resouce.code==0){
+                            layer.msg(resouce.msg, {icon: 20});
+                            var index = parent.layer.getFrameIndex(window.name);
+                            parent.layer.close(index);
+                            window.parent.location.reload();
+                        }else if(data.code=='10000') {
+        					layer.msg('没有权限,请联系管理员!');
+                        }else {
+                            layer.msg(resouce.msg);
+                        }
+                    }
+                });
+                
+                return false;
+            });
+            
+            form.on('checkbox(c_all)', function (data) {
+            	var a = data.elem.checked;
+            	if (a == true) {
+            	    console.log(data.value);
+            		//$("#action_"+data.value).prop("checked", true);
+            		$(':checkbox[id="action_'+data.value+'"]').prop("checked", true);
+            		form.render('checkbox');
+            	} else {
+            		$(':checkbox[id="action_'+data.value+'"]').prop("checked", false);
+            		form.render('checkbox');
+            	}
+            });
+            
+            form.on('checkbox(checkall)', function (data) {
+            	var a = data.elem.checked;
+            	if (a == true) {
+            		$(":checkbox[type='checkbox']").prop("checked", true);
+            		form.render('checkbox');
+            	} else {
+            		$(":checkbox[type='checkbox']").prop("checked", false);
+            		form.render('checkbox');
+            	}
+            });
+            
+            $(document).ready(function(){
+                $.ajax({
+        			type:"post",
+        			url:"/admin/roleinfo/checkedrole",
+        			data:{"id":<?php echo $roleinfo['id']; ?>},
+        			dataType:'json',
+        			success:function (data) {
+        				if(data.code=='0'){
+        				    console.log(data);
+        					$.each(data.roleinfo,function(key,val){
+    							$("#"+key).prop("checked",true);
+    							$.each(val,function(k,v){
+    							    $(".action_"+key+"_"+v).prop("checked",true);
+    							})
+    						})
+    						form.render();
+        				}else if(data.code=='10000'){
+        					layer.msg('没有权限');
+        				}
+        			}
+                });  
+            })
+        });
+  </script>
+  
+  </body>
+
+</html>

@@ -1,0 +1,1242 @@
+2019-09-29 09:37:21 2
+2019-09-29 09:37:21 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 09:37:21 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 09:37:21 68
+2019-09-29 09:37:21 4096
+2019-09-29 09:37:21 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 09:37:21 /home/www/kod/yafcms/public/index.php
+2019-09-29 09:37:21 19
+2019-09-29 09:38:03 2
+2019-09-29 09:38:03 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 09:38:03 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 09:38:03 68
+2019-09-29 09:38:03 4096
+2019-09-29 09:38:03 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 09:38:03 /home/www/kod/yafcms/public/index.php
+2019-09-29 09:38:03 19
+2019-09-29 09:39:58 2
+2019-09-29 09:39:58 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 09:39:58 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 09:39:58 68
+2019-09-29 09:39:58 4096
+2019-09-29 09:39:58 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 09:39:58 /home/www/kod/yafcms/public/index.php
+2019-09-29 09:39:58 19
+2019-09-29 09:41:08 2
+2019-09-29 09:41:08 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 09:41:08 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 09:41:08 68
+2019-09-29 09:41:08 4096
+2019-09-29 09:41:08 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 09:41:08 /home/www/kod/yafcms/public/index.php
+2019-09-29 09:41:08 19
+2019-09-29 09:42:15 2
+2019-09-29 09:42:15 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 09:42:15 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 09:42:15 68
+2019-09-29 09:42:16 4096
+2019-09-29 09:42:16 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 09:42:16 /home/www/kod/yafcms/public/index.php
+2019-09-29 09:42:16 19
+2019-09-29 09:44:39 2
+2019-09-29 09:44:39 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 09:44:39 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 09:44:39 68
+2019-09-29 09:44:39 4096
+2019-09-29 09:44:39 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 09:44:39 /home/www/kod/yafcms/public/index.php
+2019-09-29 09:44:39 19
+2019-09-29 09:49:20 2
+2019-09-29 09:49:20 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 09:49:20 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 09:49:20 68
+2019-09-29 09:49:20 4096
+2019-09-29 09:49:20 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 09:49:20 /home/www/kod/yafcms/public/index.php
+2019-09-29 09:49:20 19
+2019-09-29 09:51:31 2
+2019-09-29 09:51:31 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 09:51:31 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 09:51:31 68
+2019-09-29 09:51:31 4096
+2019-09-29 09:51:31 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 09:51:31 /home/www/kod/yafcms/public/index.php
+2019-09-29 09:51:31 19
+2019-09-29 09:52:47 2
+2019-09-29 09:52:47 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 09:52:47 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 09:52:47 68
+2019-09-29 09:52:47 4096
+2019-09-29 09:52:47 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 09:52:47 /home/www/kod/yafcms/public/index.php
+2019-09-29 09:52:47 19
+2019-09-29 09:54:29 2
+2019-09-29 09:54:29 Invalid argument supplied for foreach()
+2019-09-29 09:54:29 /home/www/kod/yafcms/application/modules/Admin/views/homeimg/addhtml.html
+2019-09-29 09:54:29 35
+2019-09-29 09:55:55 2
+2019-09-29 09:55:55 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 09:55:55 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 09:55:55 68
+2019-09-29 09:55:56 4096
+2019-09-29 09:55:56 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 09:55:56 /home/www/kod/yafcms/public/index.php
+2019-09-29 09:55:56 19
+2019-09-29 09:55:56 2
+2019-09-29 09:55:56 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 09:55:56 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 09:55:56 68
+2019-09-29 09:56:18 2
+2019-09-29 09:56:18 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 09:56:18 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 09:56:18 68
+2019-09-29 09:56:18 4096
+2019-09-29 09:56:18 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 09:56:18 /home/www/kod/yafcms/public/index.php
+2019-09-29 09:56:18 19
+2019-09-29 09:58:31 2
+2019-09-29 09:58:31 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 09:58:31 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 09:58:31 68
+2019-09-29 09:58:31 4096
+2019-09-29 09:58:31 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 09:58:31 /home/www/kod/yafcms/public/index.php
+2019-09-29 09:58:31 19
+2019-09-29 09:58:42 2
+2019-09-29 09:58:42 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 09:58:42 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 09:58:42 68
+2019-09-29 09:58:43 4096
+2019-09-29 09:58:43 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 09:58:43 /home/www/kod/yafcms/public/index.php
+2019-09-29 09:58:43 19
+2019-09-29 09:59:21 2
+2019-09-29 09:59:21 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 09:59:21 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 09:59:21 68
+2019-09-29 09:59:21 4096
+2019-09-29 09:59:21 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 09:59:21 /home/www/kod/yafcms/public/index.php
+2019-09-29 09:59:21 19
+2019-09-29 10:00:12 2
+2019-09-29 10:00:12 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 10:00:12 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 10:00:12 68
+2019-09-29 10:00:12 4096
+2019-09-29 10:00:12 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:00:12 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:00:12 19
+2019-09-29 10:05:21 2
+2019-09-29 10:05:21 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 10:05:21 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 10:05:21 68
+2019-09-29 10:05:21 4096
+2019-09-29 10:05:21 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:05:21 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:05:21 19
+2019-09-29 10:06:24 2
+2019-09-29 10:06:24 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 10:06:24 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 10:06:24 68
+2019-09-29 10:06:25 4096
+2019-09-29 10:06:25 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:06:25 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:06:25 19
+2019-09-29 10:07:03 4096
+2019-09-29 10:07:03 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:07:03 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:07:03 19
+2019-09-29 10:07:04 2
+2019-09-29 10:07:04 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 10:07:04 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 10:07:04 68
+2019-09-29 10:07:04 4096
+2019-09-29 10:07:04 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:07:04 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:07:04 19
+2019-09-29 10:08:00 4096
+2019-09-29 10:08:00 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:08:00 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:08:00 19
+2019-09-29 10:08:01 2
+2019-09-29 10:08:01 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 10:08:01 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 10:08:01 68
+2019-09-29 10:08:02 4096
+2019-09-29 10:08:02 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:08:02 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:08:02 19
+2019-09-29 10:09:08 2
+2019-09-29 10:09:08 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 10:09:08 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 10:09:08 68
+2019-09-29 10:09:08 4096
+2019-09-29 10:09:08 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:09:08 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:09:08 19
+2019-09-29 10:10:07 2
+2019-09-29 10:10:07 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 10:10:07 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 10:10:07 68
+2019-09-29 10:10:07 4096
+2019-09-29 10:10:07 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:10:07 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:10:07 19
+2019-09-29 10:10:33 2
+2019-09-29 10:10:33 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 10:10:33 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 10:10:33 68
+2019-09-29 10:10:34 4096
+2019-09-29 10:10:34 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:10:34 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:10:34 19
+2019-09-29 10:10:52 2
+2019-09-29 10:10:52 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 10:10:52 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 10:10:52 68
+2019-09-29 10:10:53 4096
+2019-09-29 10:10:53 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:10:53 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:10:53 19
+2019-09-29 10:11:09 2
+2019-09-29 10:11:09 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 10:11:09 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 10:11:09 68
+2019-09-29 10:11:09 4096
+2019-09-29 10:11:09 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:11:09 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:11:09 19
+2019-09-29 10:14:08 2
+2019-09-29 10:14:08 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 10:14:08 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 10:14:08 68
+2019-09-29 10:14:09 4096
+2019-09-29 10:14:09 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:14:09 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:14:09 19
+2019-09-29 10:14:19 2
+2019-09-29 10:14:19 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 10:14:19 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 10:14:19 68
+2019-09-29 10:14:19 4096
+2019-09-29 10:14:19 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:14:19 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:14:19 19
+2019-09-29 10:27:30 2
+2019-09-29 10:27:30 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 10:27:30 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 10:27:30 68
+2019-09-29 10:27:30 4096
+2019-09-29 10:27:30 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:27:30 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:27:30 19
+2019-09-29 10:29:03 2
+2019-09-29 10:29:03 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 10:29:03 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 10:29:03 68
+2019-09-29 10:29:03 4096
+2019-09-29 10:29:03 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:29:03 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:29:03 19
+2019-09-29 10:32:37 2
+2019-09-29 10:32:37 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 10:32:37 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 10:32:37 68
+2019-09-29 10:32:37 4096
+2019-09-29 10:32:37 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:32:37 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:32:37 19
+2019-09-29 10:34:36 2
+2019-09-29 10:34:36 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 10:34:36 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 10:34:36 68
+2019-09-29 10:34:36 4096
+2019-09-29 10:34:36 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:34:36 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:34:36 19
+2019-09-29 10:36:04 2
+2019-09-29 10:36:04 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 10:36:04 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 10:36:04 68
+2019-09-29 10:36:04 4096
+2019-09-29 10:36:04 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:36:04 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:36:04 19
+2019-09-29 10:37:40 2
+2019-09-29 10:37:40 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 10:37:40 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 10:37:40 68
+2019-09-29 10:37:41 4096
+2019-09-29 10:37:41 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:37:41 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:37:41 19
+2019-09-29 10:39:55 2
+2019-09-29 10:39:55 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 10:39:55 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 10:39:55 68
+2019-09-29 10:39:55 4096
+2019-09-29 10:39:55 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:39:55 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:39:55 19
+2019-09-29 10:40:04 2
+2019-09-29 10:40:04 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 10:40:04 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 10:40:04 68
+2019-09-29 10:40:04 4096
+2019-09-29 10:40:04 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:40:04 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:40:04 19
+2019-09-29 10:41:43 4096
+2019-09-29 10:41:43 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:41:43 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:41:43 19
+2019-09-29 10:41:44 4096
+2019-09-29 10:41:44 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:41:44 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:41:44 19
+2019-09-29 10:41:45 4096
+2019-09-29 10:41:45 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:41:45 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:41:45 19
+2019-09-29 10:41:46 4096
+2019-09-29 10:41:46 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:41:46 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:41:46 19
+2019-09-29 10:41:46 4096
+2019-09-29 10:41:46 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:41:46 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:41:46 19
+2019-09-29 10:41:47 4096
+2019-09-29 10:41:47 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:41:47 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:41:47 19
+2019-09-29 10:41:48 4096
+2019-09-29 10:41:48 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:41:48 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:41:48 19
+2019-09-29 10:42:06 4096
+2019-09-29 10:42:06 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Home.php: No such file or directory
+2019-09-29 10:42:06 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:42:06 19
+2019-09-29 10:42:08 4096
+2019-09-29 10:42:08 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Home.php: No such file or directory
+2019-09-29 10:42:08 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:42:08 19
+2019-09-29 10:44:17 4096
+2019-09-29 10:44:17 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Upload.php: No such file or directory
+2019-09-29 10:44:17 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:44:17 19
+2019-09-29 10:44:17 4096
+2019-09-29 10:44:17 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Upload.php: No such file or directory
+2019-09-29 10:44:17 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:44:17 19
+2019-09-29 10:44:17 4096
+2019-09-29 10:44:17 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Upload.php: No such file or directory
+2019-09-29 10:44:17 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:44:17 19
+2019-09-29 10:44:17 4096
+2019-09-29 10:44:17 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Upload.php: No such file or directory
+2019-09-29 10:44:17 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:44:17 19
+2019-09-29 10:44:17 4096
+2019-09-29 10:44:17 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Upload.php: No such file or directory
+2019-09-29 10:44:17 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:44:17 19
+2019-09-29 10:44:17 4096
+2019-09-29 10:44:17 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Upload.php: No such file or directory
+2019-09-29 10:44:17 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:44:17 19
+2019-09-29 10:44:17 4096
+2019-09-29 10:44:17 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Upload.php: No such file or directory
+2019-09-29 10:44:17 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:44:17 19
+2019-09-29 10:44:17 4096
+2019-09-29 10:44:17 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:44:17 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:44:17 19
+2019-09-29 10:45:15 4096
+2019-09-29 10:45:15 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:45:15 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:45:15 19
+2019-09-29 10:47:07 4096
+2019-09-29 10:47:07 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:47:07 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:47:07 19
+2019-09-29 10:55:04 4096
+2019-09-29 10:55:04 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:55:04 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:55:04 19
+2019-09-29 10:55:06 4096
+2019-09-29 10:55:06 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:55:06 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:55:06 19
+2019-09-29 10:57:57 4096
+2019-09-29 10:57:57 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 10:57:57 /home/www/kod/yafcms/public/index.php
+2019-09-29 10:57:57 19
+2019-09-29 11:03:58 2
+2019-09-29 11:03:58 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 11:03:58 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 11:03:58 68
+2019-09-29 11:03:58 4096
+2019-09-29 11:03:58 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:03:58 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:03:58 19
+2019-09-29 11:06:31 2
+2019-09-29 11:06:31 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 11:06:31 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 11:06:31 68
+2019-09-29 11:06:31 4096
+2019-09-29 11:06:31 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:06:31 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:06:31 19
+2019-09-29 11:12:11 2
+2019-09-29 11:12:11 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 11:12:11 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 11:12:11 68
+2019-09-29 11:12:11 4096
+2019-09-29 11:12:11 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:12:11 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:12:11 19
+2019-09-29 11:12:58 2
+2019-09-29 11:12:58 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 11:12:58 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 11:12:58 68
+2019-09-29 11:12:58 4096
+2019-09-29 11:12:58 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:12:58 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:12:58 19
+2019-09-29 11:14:06 2
+2019-09-29 11:14:06 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 11:14:06 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 11:14:06 68
+2019-09-29 11:14:06 4096
+2019-09-29 11:14:06 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:14:06 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:14:06 19
+2019-09-29 11:14:56 2
+2019-09-29 11:14:56 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 11:14:56 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 11:14:56 68
+2019-09-29 11:14:56 4096
+2019-09-29 11:14:56 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:14:56 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:14:56 19
+2019-09-29 11:15:46 2
+2019-09-29 11:15:46 Invalid argument supplied for foreach()
+2019-09-29 11:15:46 /home/www/kod/yafcms/application/modules/Admin/controllers/Case.php
+2019-09-29 11:15:46 27
+2019-09-29 11:19:03 2
+2019-09-29 11:19:03 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 11:19:03 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 11:19:03 68
+2019-09-29 11:19:03 4096
+2019-09-29 11:19:03 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:19:03 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:19:03 19
+2019-09-29 11:19:06 2
+2019-09-29 11:19:06 Invalid argument supplied for foreach()
+2019-09-29 11:19:06 /home/www/kod/yafcms/application/modules/Admin/controllers/Case.php
+2019-09-29 11:19:06 27
+2019-09-29 11:20:11 4096
+2019-09-29 11:20:11 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:20:11 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:20:11 19
+2019-09-29 11:23:02 2
+2019-09-29 11:23:02 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 11:23:02 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 11:23:02 68
+2019-09-29 11:23:03 4096
+2019-09-29 11:23:03 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:23:03 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:23:03 19
+2019-09-29 11:26:20 2
+2019-09-29 11:26:20 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 11:26:20 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 11:26:20 68
+2019-09-29 11:26:20 4096
+2019-09-29 11:26:20 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:26:20 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:26:20 19
+2019-09-29 11:26:48 4096
+2019-09-29 11:26:48 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:26:48 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:26:48 19
+2019-09-29 11:26:52 2
+2019-09-29 11:26:52 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 11:26:52 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 11:26:52 68
+2019-09-29 11:26:52 4096
+2019-09-29 11:26:52 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:26:52 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:26:52 19
+2019-09-29 11:34:32 4096
+2019-09-29 11:34:32 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:34:32 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:34:32 19
+2019-09-29 11:34:37 4096
+2019-09-29 11:34:37 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:34:37 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:34:37 19
+2019-09-29 11:35:24 4096
+2019-09-29 11:35:24 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:35:24 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:35:24 19
+2019-09-29 11:39:05 4096
+2019-09-29 11:39:05 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:39:05 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:39:05 19
+2019-09-29 11:40:52 4096
+2019-09-29 11:40:52 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:40:52 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:40:52 19
+2019-09-29 11:43:12 4096
+2019-09-29 11:43:12 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:43:12 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:43:12 19
+2019-09-29 11:43:35 4096
+2019-09-29 11:43:35 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:43:35 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:43:35 19
+2019-09-29 11:44:20 4096
+2019-09-29 11:44:20 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:44:20 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:44:20 19
+2019-09-29 11:45:48 4096
+2019-09-29 11:45:48 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:45:48 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:45:48 19
+2019-09-29 11:48:01 4096
+2019-09-29 11:48:01 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:48:01 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:48:01 19
+2019-09-29 11:52:35 4096
+2019-09-29 11:52:35 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:52:35 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:52:35 19
+2019-09-29 11:52:41 4096
+2019-09-29 11:52:41 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:52:41 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:52:41 19
+2019-09-29 11:53:19 4096
+2019-09-29 11:53:19 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:53:19 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:53:19 19
+2019-09-29 11:54:51 4096
+2019-09-29 11:54:51 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 11:54:51 /home/www/kod/yafcms/public/index.php
+2019-09-29 11:54:51 19
+2019-09-29 12:01:15 2
+2019-09-29 12:01:15 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 12:01:15 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 12:01:15 68
+2019-09-29 12:01:15 4096
+2019-09-29 12:01:15 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 12:01:15 /home/www/kod/yafcms/public/index.php
+2019-09-29 12:01:15 19
+2019-09-29 12:02:04 2
+2019-09-29 12:02:04 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 12:02:04 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 12:02:04 68
+2019-09-29 12:02:04 4096
+2019-09-29 12:02:04 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 12:02:04 /home/www/kod/yafcms/public/index.php
+2019-09-29 12:02:04 19
+2019-09-29 12:04:16 2
+2019-09-29 12:04:16 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 12:04:16 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 12:04:16 68
+2019-09-29 12:04:16 4096
+2019-09-29 12:04:16 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 12:04:16 /home/www/kod/yafcms/public/index.php
+2019-09-29 12:04:16 19
+2019-09-29 12:05:12 2
+2019-09-29 12:05:12 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 12:05:12 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 12:05:12 68
+2019-09-29 12:05:12 4096
+2019-09-29 12:05:12 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 12:05:12 /home/www/kod/yafcms/public/index.php
+2019-09-29 12:05:12 19
+2019-09-29 12:06:02 4096
+2019-09-29 12:06:02 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 12:06:02 /home/www/kod/yafcms/public/index.php
+2019-09-29 12:06:02 19
+2019-09-29 12:08:03 4096
+2019-09-29 12:08:03 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 12:08:03 /home/www/kod/yafcms/public/index.php
+2019-09-29 12:08:03 19
+2019-09-29 12:09:30 4096
+2019-09-29 12:09:30 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 12:09:30 /home/www/kod/yafcms/public/index.php
+2019-09-29 12:09:30 19
+2019-09-29 12:10:32 4096
+2019-09-29 12:10:32 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 12:10:32 /home/www/kod/yafcms/public/index.php
+2019-09-29 12:10:32 19
+[29-Sep-2019 12:12:37 Asia/Chongqing] PHP Fatal error:  Uncaught Error: Call to undefined function converCharset() in /home/www/kod/yafcms/application/views/index/index.html:153
+Stack trace:
+#0 [internal function]: unknown()
+#1 [internal function]: Yaf_View_Simple->render('index/index.htm...')
+#2 [internal function]: Yaf_Controller_Abstract->render('index')
+#3 /home/www/kod/yafcms/public/index.php(19): Yaf_Application->run()
+#4 {main}
+  thrown in /home/www/kod/yafcms/application/views/index/index.html on line 153
+2019-09-29 12:15:44 2
+2019-09-29 12:15:44 iconv(): Charset parameter exceeds the maximum allowed length of 64 characters
+2019-09-29 12:15:44 /home/www/kod/yafcms/application/views/index/index.html
+2019-09-29 12:15:44 155
+2019-09-29 12:15:44 4096
+2019-09-29 12:15:44 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 12:15:44 /home/www/kod/yafcms/public/index.php
+2019-09-29 12:15:44 19
+2019-09-29 12:16:08 4096
+2019-09-29 12:16:08 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 12:16:08 /home/www/kod/yafcms/public/index.php
+2019-09-29 12:16:08 19
+2019-09-29 12:16:38 4096
+2019-09-29 12:16:38 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 12:16:38 /home/www/kod/yafcms/public/index.php
+2019-09-29 12:16:38 19
+2019-09-29 12:17:14 4096
+2019-09-29 12:17:14 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 12:17:14 /home/www/kod/yafcms/public/index.php
+2019-09-29 12:17:14 19
+2019-09-29 12:17:27 4096
+2019-09-29 12:17:27 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 12:17:27 /home/www/kod/yafcms/public/index.php
+2019-09-29 12:17:27 19
+2019-09-29 12:17:57 4096
+2019-09-29 12:17:57 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 12:17:57 /home/www/kod/yafcms/public/index.php
+2019-09-29 12:17:57 19
+[29-Sep-2019 12:19:37 Asia/Chongqing] PHP Fatal error:  Uncaught Error: Call to undefined function subString_UTF8() in /home/www/kod/yafcms/application/views/index/index.html:153
+Stack trace:
+#0 [internal function]: unknown()
+#1 [internal function]: Yaf_View_Simple->render('index/index.htm...')
+#2 [internal function]: Yaf_Controller_Abstract->render('index')
+#3 /home/www/kod/yafcms/public/index.php(19): Yaf_Application->run()
+#4 {main}
+  thrown in /home/www/kod/yafcms/application/views/index/index.html on line 153
+[29-Sep-2019 12:21:57 Asia/Chongqing] PHP Fatal error:  Uncaught Error: Call to undefined function subString_UTF8() in /home/www/kod/yafcms/application/controllers/Index.php:19
+Stack trace:
+#0 [internal function]: IndexController->indexAction()
+#1 /home/www/kod/yafcms/public/index.php(19): Yaf_Application->run()
+#2 {main}
+  thrown in /home/www/kod/yafcms/application/controllers/Index.php on line 19
+2019-09-29 12:24:14 4096
+2019-09-29 12:24:14 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 12:24:14 /home/www/kod/yafcms/public/index.php
+2019-09-29 12:24:14 19
+2019-09-29 12:24:56 4096
+2019-09-29 12:24:56 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 12:24:56 /home/www/kod/yafcms/public/index.php
+2019-09-29 12:24:56 19
+2019-09-29 12:25:51 4096
+2019-09-29 12:25:51 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 12:25:51 /home/www/kod/yafcms/public/index.php
+2019-09-29 12:25:51 19
+2019-09-29 12:26:52 4096
+2019-09-29 12:26:52 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 12:26:52 /home/www/kod/yafcms/public/index.php
+2019-09-29 12:26:52 19
+2019-09-29 12:27:02 4096
+2019-09-29 12:27:02 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 12:27:02 /home/www/kod/yafcms/public/index.php
+2019-09-29 12:27:02 19
+2019-09-29 12:27:10 4096
+2019-09-29 12:27:10 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 12:27:10 /home/www/kod/yafcms/public/index.php
+2019-09-29 12:27:10 19
+2019-09-29 12:43:14 4096
+2019-09-29 12:43:14 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Admin-scripts.asp.php: No such file or directory
+2019-09-29 12:43:14 /home/www/kod/yafcms/public/index.php
+2019-09-29 12:43:14 19
+2019-09-29 12:43:15 4096
+2019-09-29 12:43:15 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Admin-scripts.asp.php: No such file or directory
+2019-09-29 12:43:15 /home/www/kod/yafcms/public/index.php
+2019-09-29 12:43:15 19
+2019-09-29 16:28:34 4096
+2019-09-29 16:28:34 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 16:28:34 /home/www/kod/yafcms/public/index.php
+2019-09-29 16:28:34 19
+2019-09-29 16:28:47 4096
+2019-09-29 16:28:47 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 16:28:47 /home/www/kod/yafcms/public/index.php
+2019-09-29 16:28:47 19
+2019-09-29 16:29:08 2
+2019-09-29 16:29:08 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 16:29:08 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 16:29:08 68
+2019-09-29 16:29:08 4096
+2019-09-29 16:29:08 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 16:29:08 /home/www/kod/yafcms/public/index.php
+2019-09-29 16:29:08 19
+2019-09-29 16:37:32 4096
+2019-09-29 16:37:32 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 16:37:32 /home/www/kod/yafcms/public/index.php
+2019-09-29 16:37:32 19
+2019-09-29 16:37:33 2
+2019-09-29 16:37:33 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 16:37:33 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 16:37:33 68
+2019-09-29 16:37:33 4096
+2019-09-29 16:37:33 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 16:37:33 /home/www/kod/yafcms/public/index.php
+2019-09-29 16:37:33 19
+2019-09-29 16:37:51 4096
+2019-09-29 16:37:51 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 16:37:51 /home/www/kod/yafcms/public/index.php
+2019-09-29 16:37:51 19
+2019-09-29 16:37:52 2
+2019-09-29 16:37:52 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 16:37:52 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 16:37:52 68
+2019-09-29 16:37:52 4096
+2019-09-29 16:37:52 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 16:37:52 /home/www/kod/yafcms/public/index.php
+2019-09-29 16:37:52 19
+2019-09-29 16:41:04 2
+2019-09-29 16:41:04 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 16:41:04 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 16:41:04 68
+2019-09-29 16:41:05 4096
+2019-09-29 16:41:05 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 16:41:05 /home/www/kod/yafcms/public/index.php
+2019-09-29 16:41:05 19
+2019-09-29 16:42:10 2
+2019-09-29 16:42:10 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 16:42:10 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 16:42:10 68
+2019-09-29 16:42:10 4096
+2019-09-29 16:42:10 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 16:42:10 /home/www/kod/yafcms/public/index.php
+2019-09-29 16:42:10 19
+2019-09-29 16:42:58 2
+2019-09-29 16:42:58 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 16:42:58 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 16:42:58 68
+2019-09-29 16:42:58 4096
+2019-09-29 16:42:58 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 16:42:58 /home/www/kod/yafcms/public/index.php
+2019-09-29 16:42:58 19
+2019-09-29 16:45:57 2
+2019-09-29 16:45:57 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 16:45:57 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 16:45:57 68
+2019-09-29 16:45:57 4096
+2019-09-29 16:45:57 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 16:45:57 /home/www/kod/yafcms/public/index.php
+2019-09-29 16:45:57 19
+2019-09-29 16:47:13 2
+2019-09-29 16:47:13 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 16:47:13 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 16:47:13 68
+2019-09-29 16:47:13 4096
+2019-09-29 16:47:13 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 16:47:13 /home/www/kod/yafcms/public/index.php
+2019-09-29 16:47:13 19
+2019-09-29 16:48:33 2
+2019-09-29 16:48:33 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 16:48:33 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 16:48:33 68
+2019-09-29 16:48:33 4096
+2019-09-29 16:48:33 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 16:48:33 /home/www/kod/yafcms/public/index.php
+2019-09-29 16:48:33 19
+2019-09-29 16:49:26 2
+2019-09-29 16:49:26 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 16:49:26 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 16:49:26 68
+2019-09-29 16:49:27 4096
+2019-09-29 16:49:27 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 16:49:27 /home/www/kod/yafcms/public/index.php
+2019-09-29 16:49:27 19
+2019-09-29 16:50:27 2
+2019-09-29 16:50:27 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 16:50:27 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 16:50:27 68
+2019-09-29 16:50:27 4096
+2019-09-29 16:50:27 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 16:50:27 /home/www/kod/yafcms/public/index.php
+2019-09-29 16:50:27 19
+2019-09-29 16:52:34 2
+2019-09-29 16:52:34 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 16:52:34 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 16:52:34 68
+2019-09-29 16:52:34 4096
+2019-09-29 16:52:34 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 16:52:34 /home/www/kod/yafcms/public/index.php
+2019-09-29 16:52:34 19
+2019-09-29 16:53:38 2
+2019-09-29 16:53:38 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 16:53:38 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 16:53:38 68
+2019-09-29 16:53:38 4096
+2019-09-29 16:53:38 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 16:53:38 /home/www/kod/yafcms/public/index.php
+2019-09-29 16:53:38 19
+2019-09-29 16:54:57 2
+2019-09-29 16:54:57 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 16:54:57 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 16:54:57 68
+2019-09-29 16:54:57 4096
+2019-09-29 16:54:57 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 16:54:57 /home/www/kod/yafcms/public/index.php
+2019-09-29 16:54:57 19
+2019-09-29 16:56:04 2
+2019-09-29 16:56:04 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 16:56:04 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 16:56:04 68
+2019-09-29 16:56:10 4096
+2019-09-29 16:56:10 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 16:56:10 /home/www/kod/yafcms/public/index.php
+2019-09-29 16:56:10 19
+2019-09-29 16:57:51 2
+2019-09-29 16:57:51 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 16:57:51 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 16:57:51 68
+2019-09-29 16:57:51 4096
+2019-09-29 16:57:51 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 16:57:51 /home/www/kod/yafcms/public/index.php
+2019-09-29 16:57:51 19
+2019-09-29 17:01:37 2
+2019-09-29 17:01:37 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:01:37 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:01:37 68
+2019-09-29 17:01:37 4096
+2019-09-29 17:01:37 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:01:37 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:01:37 19
+2019-09-29 17:02:10 2
+2019-09-29 17:02:10 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:02:10 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:02:10 68
+2019-09-29 17:02:10 4096
+2019-09-29 17:02:10 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:02:10 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:02:10 19
+2019-09-29 17:04:57 2
+2019-09-29 17:04:57 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:04:57 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:04:57 68
+2019-09-29 17:04:57 4096
+2019-09-29 17:04:57 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:04:57 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:04:57 19
+2019-09-29 17:06:05 2
+2019-09-29 17:06:05 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:06:05 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:06:05 68
+2019-09-29 17:06:05 4096
+2019-09-29 17:06:05 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:06:05 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:06:05 19
+2019-09-29 17:11:14 2
+2019-09-29 17:11:14 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:11:14 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:11:14 68
+2019-09-29 17:11:15 4096
+2019-09-29 17:11:15 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:11:15 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:11:15 19
+2019-09-29 17:12:08 2
+2019-09-29 17:12:08 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:12:08 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:12:08 68
+2019-09-29 17:12:08 4096
+2019-09-29 17:12:08 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:12:08 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:12:08 19
+2019-09-29 17:14:14 2
+2019-09-29 17:14:14 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:14:14 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:14:14 68
+2019-09-29 17:14:14 4096
+2019-09-29 17:14:14 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:14:14 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:14:14 19
+2019-09-29 17:18:16 2
+2019-09-29 17:18:16 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:18:16 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:18:16 68
+2019-09-29 17:18:16 4096
+2019-09-29 17:18:16 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:18:16 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:18:16 19
+2019-09-29 17:20:14 2
+2019-09-29 17:20:14 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:20:14 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:20:14 68
+2019-09-29 17:20:14 4096
+2019-09-29 17:20:14 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:20:14 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:20:14 19
+2019-09-29 17:20:42 2
+2019-09-29 17:20:42 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:20:42 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:20:42 68
+2019-09-29 17:20:43 4096
+2019-09-29 17:20:43 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:20:43 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:20:43 19
+2019-09-29 17:21:11 2
+2019-09-29 17:21:11 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:21:11 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:21:11 68
+2019-09-29 17:21:11 4096
+2019-09-29 17:21:11 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:21:11 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:21:11 19
+2019-09-29 17:22:06 2
+2019-09-29 17:22:06 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:22:06 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:22:06 68
+2019-09-29 17:22:07 4096
+2019-09-29 17:22:07 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:22:07 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:22:07 19
+2019-09-29 17:22:39 2
+2019-09-29 17:22:39 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:22:39 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:22:39 68
+2019-09-29 17:22:39 4096
+2019-09-29 17:22:39 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:22:39 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:22:39 19
+2019-09-29 17:23:20 2
+2019-09-29 17:23:20 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:23:20 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:23:20 68
+2019-09-29 17:23:20 4096
+2019-09-29 17:23:20 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:23:20 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:23:20 19
+2019-09-29 17:25:43 2
+2019-09-29 17:25:43 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:25:43 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:25:43 68
+2019-09-29 17:25:43 4096
+2019-09-29 17:25:43 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:25:43 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:25:43 19
+2019-09-29 17:27:15 2
+2019-09-29 17:27:15 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:27:15 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:27:15 68
+2019-09-29 17:27:15 4096
+2019-09-29 17:27:15 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:27:15 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:27:15 19
+2019-09-29 17:27:44 2
+2019-09-29 17:27:44 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:27:44 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:27:44 68
+2019-09-29 17:27:45 4096
+2019-09-29 17:27:45 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:27:45 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:27:45 19
+2019-09-29 17:33:50 2
+2019-09-29 17:33:50 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:33:50 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:33:50 68
+2019-09-29 17:33:50 4096
+2019-09-29 17:33:50 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:33:50 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:33:50 19
+2019-09-29 17:35:52 2
+2019-09-29 17:35:52 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:35:52 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:35:52 68
+2019-09-29 17:35:52 4096
+2019-09-29 17:35:52 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:35:52 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:35:52 19
+2019-09-29 17:37:22 2
+2019-09-29 17:37:22 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:37:22 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:37:22 68
+2019-09-29 17:37:22 4096
+2019-09-29 17:37:22 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:37:22 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:37:22 19
+2019-09-29 17:37:57 2
+2019-09-29 17:37:57 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:37:57 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:37:57 68
+2019-09-29 17:37:57 4096
+2019-09-29 17:37:57 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:37:57 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:37:57 19
+2019-09-29 17:39:21 2
+2019-09-29 17:39:21 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:39:21 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:39:21 68
+2019-09-29 17:39:21 4096
+2019-09-29 17:39:21 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:39:21 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:39:21 19
+2019-09-29 17:39:50 2
+2019-09-29 17:39:50 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:39:50 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:39:50 68
+2019-09-29 17:39:50 4096
+2019-09-29 17:39:50 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:39:50 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:39:50 19
+2019-09-29 17:44:30 2
+2019-09-29 17:44:30 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:44:30 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:44:30 68
+2019-09-29 17:44:30 4096
+2019-09-29 17:44:30 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:44:30 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:44:30 19
+2019-09-29 17:45:17 2
+2019-09-29 17:45:17 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:45:17 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:45:17 68
+2019-09-29 17:45:17 4096
+2019-09-29 17:45:17 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:45:17 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:45:17 19
+2019-09-29 17:45:59 4096
+2019-09-29 17:45:59 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:45:59 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:45:59 19
+2019-09-29 17:47:04 2
+2019-09-29 17:47:04 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:47:04 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:47:04 68
+2019-09-29 17:47:05 4096
+2019-09-29 17:47:05 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:47:05 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:47:05 19
+2019-09-29 17:50:39 2
+2019-09-29 17:50:39 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:50:39 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:50:39 68
+2019-09-29 17:50:39 4096
+2019-09-29 17:50:39 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:50:39 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:50:39 19
+2019-09-29 17:53:31 2
+2019-09-29 17:53:31 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:53:31 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:53:31 68
+2019-09-29 17:53:31 4096
+2019-09-29 17:53:31 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:53:31 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:53:31 19
+2019-09-29 17:53:41 2
+2019-09-29 17:53:41 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:53:41 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:53:41 68
+2019-09-29 17:53:42 4096
+2019-09-29 17:53:42 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:53:42 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:53:42 19
+2019-09-29 17:55:34 2
+2019-09-29 17:55:34 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:55:34 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:55:34 68
+2019-09-29 17:55:34 4096
+2019-09-29 17:55:34 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:55:34 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:55:34 19
+2019-09-29 17:57:39 2
+2019-09-29 17:57:39 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:57:39 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:57:39 68
+2019-09-29 17:57:40 4096
+2019-09-29 17:57:40 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:57:40 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:57:40 19
+2019-09-29 17:58:31 2
+2019-09-29 17:58:31 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:58:31 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:58:31 68
+2019-09-29 17:58:31 4096
+2019-09-29 17:58:31 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:58:31 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:58:31 19
+2019-09-29 17:59:36 2
+2019-09-29 17:59:36 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 17:59:36 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 17:59:36 68
+2019-09-29 17:59:36 4096
+2019-09-29 17:59:36 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 17:59:36 /home/www/kod/yafcms/public/index.php
+2019-09-29 17:59:36 19
+2019-09-29 18:02:34 2
+2019-09-29 18:02:34 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 18:02:34 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 18:02:34 68
+2019-09-29 18:02:35 4096
+2019-09-29 18:02:35 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:02:35 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:02:35 19
+2019-09-29 18:02:37 4096
+2019-09-29 18:02:37 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Nmaplowercheck1569751390.php: No such file or directory
+2019-09-29 18:02:37 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:02:37 19
+2019-09-29 18:02:37 4096
+2019-09-29 18:02:37 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/HNAP1.php: No such file or directory
+2019-09-29 18:02:37 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:02:37 19
+2019-09-29 18:02:37 4096
+2019-09-29 18:02:37 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Sdk.php: No such file or directory
+2019-09-29 18:02:37 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:02:37 19
+2019-09-29 18:02:53 4096
+2019-09-29 18:02:53 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Nmaplowercheck1569751391.php: No such file or directory
+2019-09-29 18:02:53 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:02:53 19
+2019-09-29 18:03:03 4096
+2019-09-29 18:03:03 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Evox.php: No such file or directory
+2019-09-29 18:03:03 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:03:03 19
+2019-09-29 18:06:30 2
+2019-09-29 18:06:30 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 18:06:30 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 18:06:30 68
+2019-09-29 18:06:30 4096
+2019-09-29 18:06:30 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:06:30 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:06:30 19
+2019-09-29 18:07:07 2
+2019-09-29 18:07:07 Yaf_Loader::autoload(): Failed opening script /home/www/kod/yafcms/application/library/M/Default.php: No such file or directory
+2019-09-29 18:07:07 /home/www/kod/yafcms/application/library/core/Helper.php
+2019-09-29 18:07:07 68
+2019-09-29 18:07:08 4096
+2019-09-29 18:07:08 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:07:08 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:07:08 19
+2019-09-29 18:10:04 4096
+2019-09-29 18:10:04 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/52.php: No such file or directory
+2019-09-29 18:10:04 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:10:04 19
+2019-09-29 18:10:04 4096
+2019-09-29 18:10:04 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/51.php: No such file or directory
+2019-09-29 18:10:04 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:10:04 19
+2019-09-29 18:10:04 4096
+2019-09-29 18:10:04 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/54.php: No such file or directory
+2019-09-29 18:10:04 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:10:04 19
+2019-09-29 18:10:04 4096
+2019-09-29 18:10:04 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/53.php: No such file or directory
+2019-09-29 18:10:04 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:10:04 19
+2019-09-29 18:10:04 4096
+2019-09-29 18:10:04 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:10:04 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:10:04 19
+2019-09-29 18:10:06 4096
+2019-09-29 18:10:06 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/52.php: No such file or directory
+2019-09-29 18:10:06 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:10:06 19
+2019-09-29 18:10:06 4096
+2019-09-29 18:10:06 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/51.php: No such file or directory
+2019-09-29 18:10:06 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:10:06 19
+2019-09-29 18:10:06 4096
+2019-09-29 18:10:06 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/53.php: No such file or directory
+2019-09-29 18:10:06 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:10:06 19
+2019-09-29 18:10:06 4096
+2019-09-29 18:10:06 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/54.php: No such file or directory
+2019-09-29 18:10:06 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:10:06 19
+2019-09-29 18:10:06 4096
+2019-09-29 18:10:06 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:10:06 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:10:06 19
+2019-09-29 18:10:53 4096
+2019-09-29 18:10:53 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:10:53 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:10:53 19
+2019-09-29 18:11:15 4096
+2019-09-29 18:11:15 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:11:15 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:11:15 19
+2019-09-29 18:11:35 4096
+2019-09-29 18:11:35 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:11:35 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:11:35 19
+2019-09-29 18:12:47 4096
+2019-09-29 18:12:47 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:12:47 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:12:47 19
+2019-09-29 18:15:19 4096
+2019-09-29 18:15:19 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:15:19 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:15:19 19
+2019-09-29 18:16:46 4096
+2019-09-29 18:16:46 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:16:46 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:16:46 19
+2019-09-29 18:16:47 4096
+2019-09-29 18:16:47 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:16:47 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:16:47 19
+2019-09-29 18:16:47 4096
+2019-09-29 18:16:47 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:16:47 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:16:47 19
+2019-09-29 18:17:05 4096
+2019-09-29 18:17:05 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:17:05 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:17:05 19
+2019-09-29 18:17:34 4096
+2019-09-29 18:17:34 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:17:34 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:17:34 19
+2019-09-29 18:19:13 4096
+2019-09-29 18:19:13 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:19:13 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:19:13 19
+2019-09-29 18:19:14 4096
+2019-09-29 18:19:14 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:19:14 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:19:14 19
+2019-09-29 18:19:19 4096
+2019-09-29 18:19:19 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:19:19 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:19:19 19
+2019-09-29 18:19:20 4096
+2019-09-29 18:19:20 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:19:20 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:19:20 19
+2019-09-29 18:19:24 4096
+2019-09-29 18:19:24 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:19:24 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:19:24 19
+2019-09-29 18:19:26 4096
+2019-09-29 18:19:26 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:19:26 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:19:26 19
+2019-09-29 18:20:01 4096
+2019-09-29 18:20:01 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:20:01 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:20:01 19
+2019-09-29 18:20:02 4096
+2019-09-29 18:20:02 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:20:02 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:20:02 19
+2019-09-29 18:20:04 4096
+2019-09-29 18:20:04 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:20:04 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:20:04 19
+2019-09-29 18:20:08 4096
+2019-09-29 18:20:08 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:20:08 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:20:08 19
+2019-09-29 18:20:10 4096
+2019-09-29 18:20:10 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:20:10 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:20:10 19
+2019-09-29 18:20:20 4096
+2019-09-29 18:20:20 Yaf_Application::run(): Failed opening controller script /home/www/kod/yafcms/application/controllers/Favicon.ico.php: No such file or directory
+2019-09-29 18:20:20 /home/www/kod/yafcms/public/index.php
+2019-09-29 18:20:20 19

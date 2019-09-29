@@ -1,0 +1,216 @@
+
+111.201.147.235 | 2019-09-29 10:14:26
+SQL: DELETE FROM `hszt_homeimg` WHERE id in ()
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+LINE__________FUNCTION__________FILE______________________________________
+914________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+877________Exec_________________/home/www/kod/yafcms/application/library/core/Model.php
+73_________Delete_______________/home/www/kod/yafcms/application/modules/Admin/controllers/Homeimg.php
+___________deleteAction_________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.147.235 | 2019-09-29 10:29:16
+SQL: DELETE FROM `hszt_homeimg` WHERE id in ()
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+LINE__________FUNCTION__________FILE______________________________________
+914________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+877________Exec_________________/home/www/kod/yafcms/application/library/core/Model.php
+73_________Delete_______________/home/www/kod/yafcms/application/modules/Admin/controllers/Homeimg.php
+___________deleteAction_________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.147.235 | 2019-09-29 10:37:50
+SQL: DELETE FROM `hszt_homeimg` WHERE id in ()
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+LINE__________FUNCTION__________FILE______________________________________
+914________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+877________Exec_________________/home/www/kod/yafcms/application/library/core/Model.php
+73_________Delete_______________/home/www/kod/yafcms/application/modules/Admin/controllers/Homeimg.php
+___________deleteAction_________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.147.235 | 2019-09-29 10:37:54
+SQL: DELETE FROM `hszt_homeimg` WHERE id in ()
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+LINE__________FUNCTION__________FILE______________________________________
+914________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+877________Exec_________________/home/www/kod/yafcms/application/library/core/Model.php
+73_________Delete_______________/home/www/kod/yafcms/application/modules/Admin/controllers/Homeimg.php
+___________deleteAction_________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.147.235 | 2019-09-29 11:07:24
+SQL: UPDATE `hszt_newlist` SET `cid` = '33',`title` = 'AR，VR，MR：今天咱们说MR，我司开放现场体验',`img` = 'http://www.huashizt.com:8080/upload/newlist/1494427550398039-png.png',`c_time` = '2019-09-29 11:07:24',`info` = '<p>如果在工厂，通过HoloLens就能看到无人机、机器人等各种零部件实时匹配部不和谐的爆炸视图，那么，以后工厂的品控部门、评测机构以及各种DIY团队，还会有多大的存在价值?</p><p><br></p><p>Mixed reality with HoloLens</p><p class=\"c-paragraph-3\">Mixed reality brings people, places, and objects from your physical and digital worlds together. This blended environment becomes your canvas, where you can create and enjoy a wide range of experiences. Drag your mouse cursor over the image below to explore the galaxy.</p><p class=\"c-paragraph-3\"><img src=\"http://www.huashizt.com:8080/upload/newlist/3946d676ff041e103f90b25aaaaa65a6.png\" alt=\"http://www.huashizt.com:8080/upload/newlist/3946d676ff041e103f90b25aaaaa65a6.png\"><br></p>',`home` = '1'  WHERE `id` = "41" LIMIT 1
+Error: Unknown column 'home' in 'field list'
+LINE__________FUNCTION__________FILE______________________________________
+914________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+831________Exec_________________/home/www/kod/yafcms/application/library/core/Model.php
+840________Update_______________/home/www/kod/yafcms/application/library/core/Model.php
+528________UpdateOne____________/home/www/kod/yafcms/application/library/core/Model.php
+69_________UpdateByID___________/home/www/kod/yafcms/application/modules/Admin/controllers/Newlist.php
+___________updateByIdAction_____
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.147.235 | 2019-09-29 11:15:46
+SQL: SELECT * FROM `hszt_case` where `id` in (select id from (select id from `hszt_case`  order by id desc limit 0,10)as t) order by  id desc
+Error: Table 'hszt.hszt_case' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+690________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Case.php
+25_________getListByPage________/home/www/kod/yafcms/application/modules/Admin/controllers/Case.php
+___________tabPageAction________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.147.235 | 2019-09-29 11:15:46
+SQL: SELECT count(*) as `total` FROM `hszt_case` 
+Error: Table 'hszt.hszt_case' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+708________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Case.php
+25_________getListByPage________/home/www/kod/yafcms/application/modules/Admin/controllers/Case.php
+___________tabPageAction________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.147.235 | 2019-09-29 11:19:06
+SQL: SELECT * FROM `hszt_case` where `id` in (select id from (select id from `hszt_case`  order by id desc limit 0,10)as t) order by  id desc
+Error: Table 'hszt.hszt_case' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+690________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Case.php
+25_________getListByPage________/home/www/kod/yafcms/application/modules/Admin/controllers/Case.php
+___________tabPageAction________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.147.235 | 2019-09-29 11:19:06
+SQL: SELECT count(*) as `total` FROM `hszt_case` 
+Error: Table 'hszt.hszt_case' doesn't exist
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+708________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+22_________tabPage______________/home/www/kod/yafcms/application/model/M_Case.php
+25_________getListByPage________/home/www/kod/yafcms/application/modules/Admin/controllers/Case.php
+___________tabPageAction________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.147.235 | 2019-09-29 17:34:06
+SQL: INSERT INTO hszt_link (`c_time`,`inlk`,`img`) VALUES ('2019-09-29 17:34:06','','55cdadbb48d5f.jpg')
+Error: Unknown column 'inlk' in 'field list'
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+393________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+50_________Insert_______________/home/www/kod/yafcms/application/modules/Admin/controllers/Link.php
+___________addinsertAction______
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.147.235 | 2019-09-29 17:34:06
+SQL: INSERT INTO hszt_link (`c_time`,`inlk`,`img`) VALUES ('2019-09-29 17:34:06','','55cdadd1c338c.jpg')
+Error: Unknown column 'inlk' in 'field list'
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+393________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+50_________Insert_______________/home/www/kod/yafcms/application/modules/Admin/controllers/Link.php
+___________addinsertAction______
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.147.235 | 2019-09-29 17:34:06
+SQL: INSERT INTO hszt_link (`c_time`,`inlk`,`img`) VALUES ('2019-09-29 17:34:06','','55cdae4e0220e.jpg')
+Error: Unknown column 'inlk' in 'field list'
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+393________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+50_________Insert_______________/home/www/kod/yafcms/application/modules/Admin/controllers/Link.php
+___________addinsertAction______
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.147.235 | 2019-09-29 17:34:06
+SQL: INSERT INTO hszt_link (`c_time`,`inlk`,`img`) VALUES ('2019-09-29 17:34:06','','55cdae0cb854b.jpg')
+Error: Unknown column 'inlk' in 'field list'
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+393________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+50_________Insert_______________/home/www/kod/yafcms/application/modules/Admin/controllers/Link.php
+___________addinsertAction______
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.147.235 | 2019-09-29 17:35:07
+SQL: INSERT INTO hszt_link (`c_time`,`inlk`,`img`) VALUES ('2019-09-29 17:35:07','http://www.avic.com.cn/','55cdadbb48d5f.jpg')
+Error: Unknown column 'inlk' in 'field list'
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+393________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+50_________Insert_______________/home/www/kod/yafcms/application/modules/Admin/controllers/Link.php
+___________addinsertAction______
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.147.235 | 2019-09-29 17:35:07
+SQL: INSERT INTO hszt_link (`c_time`,`inlk`,`img`) VALUES ('2019-09-29 17:35:07','http://tv.cctv.com','55cdadd1c338c.jpg')
+Error: Unknown column 'inlk' in 'field list'
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+393________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+50_________Insert_______________/home/www/kod/yafcms/application/modules/Admin/controllers/Link.php
+___________addinsertAction______
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.147.235 | 2019-09-29 17:35:07
+SQL: INSERT INTO hszt_link (`c_time`,`inlk`,`img`) VALUES ('2019-09-29 17:35:07','http://www.nlc.gov.cn/','55cdae4e0220e.jpg')
+Error: Unknown column 'inlk' in 'field list'
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+393________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+50_________Insert_______________/home/www/kod/yafcms/application/modules/Admin/controllers/Link.php
+___________addinsertAction______
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.147.235 | 2019-09-29 17:35:07
+SQL: INSERT INTO hszt_link (`c_time`,`inlk`,`img`) VALUES ('2019-09-29 17:35:07','http://www.chinapost.com.cn/','55cdae0cb854b.jpg')
+Error: Unknown column 'inlk' in 'field list'
+LINE__________FUNCTION__________FILE______________________________________
+760________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+393________Execute______________/home/www/kod/yafcms/application/library/core/Model.php
+50_________Insert_______________/home/www/kod/yafcms/application/modules/Admin/controllers/Link.php
+___________addinsertAction______
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.147.235 | 2019-09-29 17:58:43
+SQL: DELETE FROM `hszt_link` WHERE id in ()
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+LINE__________FUNCTION__________FILE______________________________________
+914________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+877________Exec_________________/home/www/kod/yafcms/application/library/core/Model.php
+76_________Delete_______________/home/www/kod/yafcms/application/modules/Admin/controllers/Link.php
+___________deleteAction_________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.147.235 | 2019-09-29 17:58:43
+SQL: DELETE FROM `hszt_link` WHERE id in ()
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+LINE__________FUNCTION__________FILE______________________________________
+914________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+877________Exec_________________/home/www/kod/yafcms/application/library/core/Model.php
+76_________Delete_______________/home/www/kod/yafcms/application/modules/Admin/controllers/Link.php
+___________deleteAction_________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.147.235 | 2019-09-29 17:58:43
+SQL: DELETE FROM `hszt_link` WHERE id in ()
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+LINE__________FUNCTION__________FILE______________________________________
+914________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+877________Exec_________________/home/www/kod/yafcms/application/library/core/Model.php
+76_________Delete_______________/home/www/kod/yafcms/application/modules/Admin/controllers/Link.php
+___________deleteAction_________
+19_________run__________________/home/www/kod/yafcms/public/index.php
+
+111.201.147.235 | 2019-09-29 17:58:43
+SQL: DELETE FROM `hszt_link` WHERE id in ()
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+LINE__________FUNCTION__________FILE______________________________________
+914________checkResult__________/home/www/kod/yafcms/application/library/core/Model.php
+877________Exec_________________/home/www/kod/yafcms/application/library/core/Model.php
+76_________Delete_______________/home/www/kod/yafcms/application/modules/Admin/controllers/Link.php
+___________deleteAction_________
+19_________run__________________/home/www/kod/yafcms/public/index.php
